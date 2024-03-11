@@ -2,13 +2,13 @@
 
 Pergunta1
 
-## 1- Ponto 1-## Armazenamento eficiente e organizado de grandes volumes de dados: As bases de dados permitem armazenar grandes quantidades de dados de forma estruturada, o que facilita o acesso e a recuperação dessas informações.
+ 1. Ponto Armazenamento eficiente e organizado de grandes volumes de dados: As bases de dados permitem armazenar grandes quantidades de dados de forma estruturada, o que facilita o acesso e a recuperação dessas informações.
 
-Ponto 2- ## Acesso rápido e eficiente aos dados: As bases de dados são otimizadas para fornecer acesso rápido aos dados armazenados, utilizando índices e técnicas de otimização para acelerar as consultas. 
+Ponto 2- Acesso rápido e eficiente aos dados: As bases de dados são otimizadas para fornecer acesso rápido aos dados armazenados, utilizando índices e técnicas de otimização para acelerar as consultas. 
 
-Ponto 3- ## Consistência e integridade dos dados: As bases de dados permitem impor regras de integridade para garantir que os dados armazenados sejam consistentes e precisos. Isso inclui restrições de integridade referencial, restrições de chave única, entre outras. 
+Ponto 3-  Consistência e integridade dos dados: As bases de dados permitem impor regras de integridade para garantir que os dados armazenados sejam consistentes e precisos. Isso inclui restrições de integridade referencial, restrições de chave única, entre outras. 
 
-## 2- Tabela- Uma tabela em um contexto de banco de dados é uma estrutura organizada que armazena dados em linhas e colunas.
+ 2. Tabela- Uma tabela em um contexto de banco de dados é uma estrutura organizada que armazena dados em linhas e colunas.
 Cada linha em uma tabela representa uma entrada de dados específica, enquanto cada coluna representa um atributo ou campo dos dados. As tabelas são projetadas de acordo com um esquema predefinido, com cada coluna tendo um tipo de dados específico para garantir consistência e integridade dos dados.
     
   Consulta- Uma consulta em um contexto de base de dados refere-se a uma solicitação de informações específicas feita ao sistema de gerenciamento de banco de dados (SGBD).
