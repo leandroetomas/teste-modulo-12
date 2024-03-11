@@ -22,10 +22,10 @@ Cada linha em uma tabela representa uma entrada de dados específica, enquanto c
 
   Pergunta2
 
-  1- Falso. Porque as bases de dados são relevantes para empresas de todos os tamanhos, desde pequenos negócios até grandes corporações.
-  2- Falso. Embora os modelos sejam frequentemente usados para efeitos de visualização no desenho de sistemas, eles servem a muitos outros propósitos além disso.
-  3- Verdadeiro. Uma chave estrangeira em um banco de dados é uma referência a uma chave primária em outra tabela. 
-  4-Falso. Em um banco de dados, uma consulta é uma instrução ou comando usado para recuperar, atualizar, excluir ou manipular dados existentes em uma ou mais tabelas. 
-  5-Falso. Embora a normalização em bases de dados relacionais seja fundamental para garantir a integridade dos dados e reduzir a redundância, a principal vantagem não está relacionada ao aumento das velocidades de inserção, atualização e eliminação de dados.
+  1. Falso. Porque as bases de dados são relevantes para empresas de todos os tamanhos, desde pequenos negócios até grandes corporações.
+  2. Falso. Embora os modelos sejam frequentemente usados para efeitos de visualização no desenho de sistemas, eles servem a muitos outros propósitos além disso.
+  3. Verdadeiro. Uma chave estrangeira em um banco de dados é uma referência a uma chave primária em outra tabela. 
+  4. Falso. Em um banco de dados, uma consulta é uma instrução ou comando usado para recuperar, atualizar, excluir ou manipular dados existentes em uma ou mais tabelas. 
+  5. Falso. Embora a normalização em bases de dados relacionais seja fundamental para garantir a integridade dos dados e reduzir a redundância, a principal vantagem não está relacionada ao aumento das velocidades de inserção, atualização e eliminação de dados.
 
   
